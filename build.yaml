@@ -24,3 +24,4 @@ include:
     shield_include: nice_view_adapter 
   - board: nice_nano_v2
     shield: corne_right
+    shield_include: nice_view_adapter
